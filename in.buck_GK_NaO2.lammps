@@ -23,7 +23,6 @@ read_data in.NaO2.dat
 mass	1 23.00
 mass 	2 16.00
 mass 	3 0.0000001
-#mass 	4 0.0000001	
 
 pair_style	buck/coul/long 5
 bond_style harmonic
